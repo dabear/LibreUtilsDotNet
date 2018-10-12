@@ -1,0 +1,11 @@
+C:\Users\Bjørn\Documents\Visual Studio 2017\Projects\LibreUtils\LibreUtils\obj\Debug\netcoreapp2.1\LibreUtils.csprojAssemblyReference.cache
+C:\Users\Bjørn\Documents\Visual Studio 2017\Projects\LibreUtils\LibreUtils\obj\Debug\netcoreapp2.1\LibreUtils.csproj.CoreCompileInputs.cache
+C:\Users\Bjørn\Documents\Visual Studio 2017\Projects\LibreUtils\LibreUtils\obj\Debug\netcoreapp2.1\LibreUtils.AssemblyInfoInputs.cache
+C:\Users\Bjørn\Documents\Visual Studio 2017\Projects\LibreUtils\LibreUtils\obj\Debug\netcoreapp2.1\LibreUtils.AssemblyInfo.cs
+C:\Users\Bjørn\Documents\Visual Studio 2017\Projects\LibreUtils\LibreUtils\bin\Debug\netcoreapp2.1\LibreUtils.deps.json
+C:\Users\Bjørn\Documents\Visual Studio 2017\Projects\LibreUtils\LibreUtils\bin\Debug\netcoreapp2.1\LibreUtils.runtimeconfig.json
+C:\Users\Bjørn\Documents\Visual Studio 2017\Projects\LibreUtils\LibreUtils\bin\Debug\netcoreapp2.1\LibreUtils.runtimeconfig.dev.json
+C:\Users\Bjørn\Documents\Visual Studio 2017\Projects\LibreUtils\LibreUtils\bin\Debug\netcoreapp2.1\LibreUtils.dll
+C:\Users\Bjørn\Documents\Visual Studio 2017\Projects\LibreUtils\LibreUtils\bin\Debug\netcoreapp2.1\LibreUtils.pdb
+C:\Users\Bjørn\Documents\Visual Studio 2017\Projects\LibreUtils\LibreUtils\obj\Debug\netcoreapp2.1\LibreUtils.dll
+C:\Users\Bjørn\Documents\Visual Studio 2017\Projects\LibreUtils\LibreUtils\obj\Debug\netcoreapp2.1\LibreUtils.pdb
